@@ -1,0 +1,1 @@
+kafka-console-producer.bat --topic statement --bootstrap-server localhost:9092,localhost:9093
